@@ -1,2 +1,2 @@
-# HarvardX_ICS_PS-1b
+# Problem Set 1b
  
